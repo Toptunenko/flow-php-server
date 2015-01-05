@@ -1,5 +1,5 @@
 {
-  "name": "flowjs/flow-php-server",
+  "name": "gelatocloud/flow-php-server",
   "description": "PHP library for handling chunk uploads. Works with flow.js html5 file uploads.",
   "license": "MIT",
   "authors": [
